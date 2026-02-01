@@ -24,6 +24,8 @@ Working directory/
 ## Expected output
 The code should succesfully reproduce generation of following plot:
 
+<img src="www/sample_size_plot.png" />    
+
 ## Session Info
 ```
 R version 4.5.2 (2025-10-31 ucrt)
